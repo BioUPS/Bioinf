@@ -10,5 +10,10 @@ El informe será un documentos en Github en formato Markdown (método de escritu
 
 Aquí les dejo algunos formatos para el uso:
 
+![Procesador de texto (Word) vs Markdown](/imagenes/editor_texto_plano.png "Procesador de texto (Word) vs Markdown")
 
 
+https://github.com/BioUPS/Bioinf/edit/main/Proyecto_ejemplo/imagenes/editor_texto_plano.png
+
+
+<image src="/imagenes/editor_texto_plano.png" alt="Procesador de texto (Word) vs Markdown">
