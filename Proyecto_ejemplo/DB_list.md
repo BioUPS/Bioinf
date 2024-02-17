@@ -1,0 +1,20 @@
+# Lista de diferentes BBDD
+
+* [Activity Functional DNA/RNA site activity](http://wwwmgs.bionet.nsc.ru/mgs/systems/activity/)
+* [Human Metabolome Database](https://hmdb.ca/metabolites)
+* The Human Gene Database [GeneCards®](https://www.genecards.org/)
+* [NBDC Human Database](https://humandbs.biosciencedbc.jp/en/)
+  * Cambio en el funcionamiento de NBDC Human Database (abril de 2024) [NBDC Human Database](https://biosciencedbc.jp/en/news/20231030-01.html)
+* [Human Mortality Database](https://www.mortality.org/)
+* [Human Fertility Database](https://www.humanfertility.org/)
+* [UniProt](https://www.uniprot.org/)
+* [Human Autophagy Database](http://autophagy.lu/)
+* [Human Genetic Variation Database](https://www.hgvd.genome.med.kyoto-u.ac.jp/)
+* [Whole-Body Human Motion Database](https://motion-database.humanoids.kit.edu/)
+* [LOVD v.3.0 - Leiden Open Variation Database](https://www.lovd.nl/)
+* [Human Gene and Protein Database](https://hgpd.lifesciencedb.jp/cgi/)
+* [Human Genome Variation](https://hgv.figshare.com/)
+* [SFARI Gene](https://gene.sfari.org/database/human-gene/)
+* [Human Life-Table Database](https://www.lifetable.de/) (por países)
+* [Human Mortality Database](https://www.mortality.org/) (por países)
+* 
