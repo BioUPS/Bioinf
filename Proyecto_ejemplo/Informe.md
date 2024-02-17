@@ -60,3 +60,25 @@ Se ve así:
 ```
 Mira, puedes ver las comillas y formato
 ```
+## 6. Links
+```
+Este sitio fue construido usando [GitHub](https://pages.github.com/)
+```
+Este sitio fue construido usando [GitHub](https://pages.github.com/)
+
+## 7. Listas
+```
+Usa * - o + por ejemplo:
+* Empezamos en 3
++ Empezamos en 2
+- Empezamos en 1
+* 0
+```
+
+Visualizamos así:
+* Empezamos en 3
++ Empezamos en 2
+- Empezamos en 1
+* 0
+
+Puede aprender sobre Github en la [Guía de inicio rápido](https://docs.github.com/es/get-started/start-your-journey)
