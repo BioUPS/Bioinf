@@ -8,12 +8,55 @@
 
 El informe será un documentos en Github en formato Markdown (método de escritura, basado en un formato de texto plano).
 
-Aquí les dejo algunos formatos para el uso:
+Aquí vemos la diferencia entre un procesador de texto (tipo Word) vs Markdown, abiertos en un editor de texto plano. 
 
-![Procesador de texto (Word) vs Markdown](/imagenes/editor_texto_plano.png "Procesador de texto (Word) vs Markdown")
-
-
-https://github.com/BioUPS/Bioinf/edit/main/Proyecto_ejemplo/imagenes/editor_texto_plano.png
+![Procesador de texto vs Markdown](/Proyecto_ejemplo/imagenes/editor_texto_plano.png)
 
 
-<image src="/imagenes/editor_texto_plano.png" alt="Procesador de texto (Word) vs Markdown">
+Les dejo algunos formatos para el uso :+1: :
+
+## 1. Titulos
+```
+# Título primer nivel
+## Título segundo nivel
+###  Título tercer nivel
+```
+Se visualiza así:
+# Título primer nivel
+## Título segundo nivel
+###  Título tercer nivel
+
+## 2. Texto en negrita
+```
+**Hola**
+```
+**Hola**
+
+## 3. Texto en cursiva
+
+```
+*Hola*
+```
+*Hola*
+
+## 4. Superíndice y subíndice
+```
+Este es un <sub>subíndice</sub> 
+Este otro es un <sup>superíndice</sup> 
+```
+Este es un <sub>subíndice</sub> 
+
+Este otro es un <sup>superíndice</sup>
+
+## 5. Adicionar línea de comando
+
+````
+```
+Mira, puedes ver las comillas y formato
+```
+````
+Se ve así:
+
+```
+Mira, puedes ver las comillas y formato
+```
