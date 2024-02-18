@@ -1,6 +1,6 @@
 # Lista de diferentes BBDD
 * [Base de datos SILVA](https://www.arb-silva.de/): SILVA proporciona conjuntos de datos completos, de calidad comprobada y actualizados periódicamente de secuencias de ARN ribosomal (ARNr) de subunidades pequeñas (16S/18S, SSU) y grandes (23S/28S, LSU) alineadas para los tres dominios de la vida ( bacterias , arqueas y eukarya ).
-* [Bases de datos](https://www.hsls.pitt.edu/obrc/index.php?page=dna)
+* Varios accesos a diferentes [Bases de datos](https://www.hsls.pitt.edu/obrc/index.php?page=dna)
 
 ## Seres humanos 
 * [Activity Functional DNA/RNA site activity](http://wwwmgs.bionet.nsc.ru/mgs/systems/activity/)
@@ -46,7 +46,7 @@
 * [Index to Plant Chromosome Numbers (IPCN)](http://legacy.tropicos.org/Project/IPCN)
 * [Angiosperm Phylogeny Website](https://www.mobot.org/MOBOT/research/APWeb/welcome.html)
 * [Plant DNA C-values database](https://cvalues.science.kew.org/introduction)
-* [International Plant Names Index (IPNI)]:https://www.ipni.org/
+* [International Plant Names Index (IPNI)](https://www.ipni.org/)
 * [Plant GARDEN (Genome And Resource Database Entry)](https://plantgarden.jp/en/index)
 * [Brassica info](http://www.brassica.info/tools/databases.html)
 * [Ensembl Plants](https://plants.ensembl.org/species.html)
