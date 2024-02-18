@@ -22,6 +22,12 @@
 * [KEGG PATHWAY Database](https://www.genome.jp/kegg/pathway.html)
 * [RNAcentral](https://rnacentral.org/): The non-coding RNA sequence database
 * [iMETHYL](http://imethyl.iwate-megabank.org/): una base de datos integradora de metilación del ADN humano, expresión genética y variación genómica
+* [CSCD](https://geneyun.net/CSCD/): a database for cancer-specific circular RNAs
+  *   Artículo sobre la [BD CSCD](https://academic.oup.com/nar/article/46/D1/D925/4259027)
+* [DriverDBv4](http://driverdb.bioinfomics.org/cancer/): A database for human cancer driver gene research
+* [The TP53 Database](https://tp53.isb-cgc.org/)
+* [PaVE](https://pave.niaid.nih.gov/): THE PAPILLOMAVIRUS EPISTEME
+* [HPV Information centre](https://hpvcentre.net/datastatistics.php): Estadísticas
 * Links a otras DB [Biological Properties Databases](https://www.aiche.org/sbe/resources/resource-directory/biological-properties-databases?gad_source=1&gclid=Cj0KCQiAz8GuBhCxARIsAOpzk8ytMAfh4tSu3JuZHnwX0N84hf9e76Ng4h9hPGR4t1dT9VGVRb9sN2AaAjOtEALw_wcB)
 * [Consolidated Human Activity Database (CHAD)](https://www.epa.gov/healthresearch/consolidated-human-activity-database-chad-use-human-exposure-and-health-studies-and)
 * 
