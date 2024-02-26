@@ -2,7 +2,7 @@
 
 **Autores:** Ivonne Vaca
 
-**Fecha:**  23 de marzo de 2024
+**Fecha:**  febrero de 2024
 
 ## Introducción
 
