@@ -420,11 +420,14 @@ mv SRR000001_trimmed2.fastq ensamblaje/
 ---
 
 ## Ejecutar SPAdes
-
+Fuera de la carpeta ensamblaje
 ```bash
 spades -o ensamblaje/ -s ensamblaje/SRR000001_trimmed2.fastq
 ```
-
+Dentro de la carpeta ensamblaje
+```bash
+spades -o . -s SRR000001_trimmed2.fastq
+```
 ---
 
 # Explicación
@@ -674,7 +677,7 @@ Debe estar en la misma carpeta.
 
 ---
 
-# ¿Qué observar en IGV?
+# ¿Qué observar?
 
 ## Cobertura
 
@@ -826,7 +829,7 @@ Al finalizar esta práctica el estudiante podrá:
 
 ✔ Interpretar cobertura genómica
 
-✔ Visualizar resultados en IGV y JBrowse
+✔ Visualizar resultados JBrowse
 
 ---
 
