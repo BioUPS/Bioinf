@@ -335,10 +335,6 @@ CROP:280 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:20 MINLEN:36
 
 # ¿Qué hace CROP?
 
-```text
-CROP:280
-```
-
 Conserva únicamente:
 
 - primeras 280 bases
@@ -520,10 +516,12 @@ Longitud donde:
 - está contenido
 - en scaffolds iguales o mayores.
 
+<!--
+NOTA INVISIBLE
 N50 alto:
 
 → ensamblaje más continuo.
-
+-->
 ---
 
 # PARTE 7 — Alineamiento de lecturas
